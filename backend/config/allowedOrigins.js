@@ -1,5 +1,5 @@
 const allowedOrigins = [
-  'https://technotes-6tsg.onrender.com',
+  'https://technotess.netlify.app',
 ];
 
 module.exports = allowedOrigins;
