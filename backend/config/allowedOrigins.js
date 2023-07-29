@@ -1,5 +1,5 @@
 const allowedOrigins = [
-  'https://technotes-api-nmfi.onrender.com',
+  'https://technotes-6tsg.onrender.com',
 ];
 
 module.exports = allowedOrigins;
